@@ -1,0 +1,460 @@
+
+assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+balls/Neiki
+  rotate: false
+  xy: 0, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+balls/Original
+  rotate: false
+  xy: 150, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+balls/Tikiball
+  rotate: false
+  xy: 300, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+assets2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+equipaciones/BluesAway
+  rotate: false
+  xy: 0, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/BluesHome
+  rotate: false
+  xy: 0, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/BrazilAway
+  rotate: false
+  xy: 150, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/BrazilHome
+  rotate: false
+  xy: 0, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/FranceAway
+  rotate: false
+  xy: 150, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/FranceHome
+  rotate: false
+  xy: 300, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/GermanyAway
+  rotate: false
+  xy: 150, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/GermanyHome
+  rotate: false
+  xy: 300, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/RedsAway
+  rotate: false
+  xy: 450, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/RedsHome
+  rotate: false
+  xy: 300, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/SpainAway
+  rotate: false
+  xy: 450, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+equipaciones/SpainHome
+  rotate: false
+  xy: 600, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+assets3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+estadios/EstadioDeCadiz/cadizTerreno
+  rotate: false
+  xy: 0, 432
+  size: 720, 432
+  orig: 720, 432
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizFondoSur
+  rotate: false
+  xy: 720, 432
+  size: 279, 432
+  orig: 279, 432
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizTribuna
+  rotate: false
+  xy: 0, 43
+  size: 720, 389
+  orig: 720, 389
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizFondoNorte
+  rotate: false
+  xy: 720, 0
+  size: 278, 432
+  orig: 278, 432
+  offset: 0, 0
+  index: -1
+
+assets4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+estadios/EstadioDeCadiz/cadizPrefencia
+  rotate: false
+  xy: 0, 689
+  size: 720, 300
+  orig: 720, 300
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizEsq4
+  rotate: false
+  xy: 0, 300
+  size: 279, 389
+  orig: 279, 389
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizEsq3
+  rotate: false
+  xy: 279, 300
+  size: 278, 389
+  orig: 278, 389
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizEsq2
+  rotate: false
+  xy: 720, 689
+  size: 279, 300
+  orig: 279, 300
+  offset: 0, 0
+  index: -1
+estadios/EstadioDeCadiz/cadizEsq1
+  rotate: false
+  xy: 0, 0
+  size: 278, 300
+  orig: 278, 300
+  offset: 0, 0
+  index: -1
+
+assets5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flags/Blues
+  rotate: false
+  xy: 0, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+flags/Brazil
+  rotate: false
+  xy: 0, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+flags/France
+  rotate: false
+  xy: 300, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+flags/Germany
+  rotate: false
+  xy: 300, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+flags/Reds
+  rotate: false
+  xy: 600, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+flags/Spain
+  rotate: false
+  xy: 600, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+
+assets6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game/background
+  rotate: false
+  xy: 0, 390
+  size: 1024, 614
+  orig: 1024, 614
+  offset: 0, 0
+  index: -1
+game/tittle
+  rotate: false
+  xy: 0, 250
+  size: 655, 140
+  orig: 655, 140
+  offset: 0, 0
+  index: -1
+game/hud
+  rotate: false
+  xy: 0, 150
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+game/goalKeeperTapon
+  rotate: false
+  xy: 0, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+game/hardTapon
+  rotate: false
+  xy: 150, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+game/normalTapon
+  rotate: false
+  xy: 655, 240
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+game/speedTapon
+  rotate: false
+  xy: 805, 240
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+game/technicalTapon
+  rotate: false
+  xy: 300, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+game/goal
+  rotate: false
+  xy: 450, 0
+  size: 125, 250
+  orig: 125, 250
+  offset: 0, 0
+  index: -1
+game/turn
+  rotate: false
+  xy: 955, 355
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+
+assets7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menus/botonOpciones
+  rotate: false
+  xy: 0, 603
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+menus/botonPartidoEnRed
+  rotate: false
+  xy: 0, 203
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+menus/botonPartidoRapido
+  rotate: false
+  xy: 400, 603
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+menus/botonSalir
+  rotate: false
+  xy: 400, 203
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+menus/turnos
+  rotate: false
+  xy: 0, 50
+  size: 305, 153
+  orig: 305, 153
+  offset: 0, 0
+  index: -1
+menus/button
+  rotate: false
+  xy: 305, 128
+  size: 300, 75
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+menus/buttonTouch
+  rotate: false
+  xy: 305, 53
+  size: 300, 75
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+menus/goals
+  rotate: false
+  xy: 800, 850
+  size: 175, 153
+  orig: 175, 153
+  offset: 0, 0
+  index: -1
+menus/before
+  rotate: false
+  xy: 800, 630
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+menus/beforeTouch
+  rotate: false
+  xy: 800, 410
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+menus/next
+  rotate: false
+  xy: 892, 630
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+menus/nextTouch
+  rotate: false
+  xy: 892, 410
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+menus/locked
+  rotate: false
+  xy: 605, 53
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+menus/textField
+  rotate: false
+  xy: 0, 0
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+menus/human
+  rotate: false
+  xy: 800, 360
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+menus/ia
+  rotate: false
+  xy: 705, 153
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+menus/tikiPoints
+  rotate: false
+  xy: 200, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+menus/add
+  rotate: false
+  xy: 975, 973
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+menus/addTouch
+  rotate: false
+  xy: 800, 330
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+
+assets8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menus/backgroundButton
+  rotate: false
+  xy: 0, 0
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1

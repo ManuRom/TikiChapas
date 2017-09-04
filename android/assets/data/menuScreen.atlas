@@ -1,0 +1,66 @@
+
+menuScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+letrasMenu
+  rotate: false
+  xy: 1, 537
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1, 55
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+anterior
+  rotate: false
+  xy: 803, 965
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+siguiente
+  rotate: false
+  xy: 1, 1
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+
+menuScreen2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+botonOpciones
+  rotate: false
+  xy: 1, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+botonPartidoEnRed
+  rotate: false
+  xy: 1, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+botonPartidoRapido
+  rotate: false
+  xy: 403, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+botonSalir
+  rotate: false
+  xy: 403, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

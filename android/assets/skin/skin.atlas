@@ -1,0 +1,89 @@
+
+skin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgroundButton
+  rotate: false
+  xy: 0, 175
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 0, 100
+  size: 300, 75
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+buttonTouch
+  rotate: false
+  xy: 400, 400
+  size: 300, 75
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+before
+  rotate: false
+  xy: 400, 180
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+beforeTouch
+  rotate: false
+  xy: 492, 180
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 584, 180
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+textField
+  rotate: false
+  xy: 0, 50
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+nextTouch
+  rotate: false
+  xy: 676, 180
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+human
+  rotate: false
+  xy: 300, 125
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ia
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+add
+  rotate: false
+  xy: 200, 70
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+addTouch
+  rotate: false
+  xy: 700, 445
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

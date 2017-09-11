@@ -1,0 +1,187 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	green: { g: 1, a: 1 },
+	light_grey: { r: 0.8, g: 0.8, b: 0.8, a: 1 },
+	white: { r: 1, g: 1, b: 1, a: 1 },
+	orange: { r: 0.9098039, g: 0.4117647, b: 0.09019608, a: 1 },
+	red: { r: 1, a: 1 },
+	grey: { r: 0.7, g: 0.7, b: 0.7, a: 1 },
+	light_orange: { r: 1, g: 0.5921569, a: 1 },
+	grey_60: { r: 0.6, g: 0.6, b: 0.6, a: 1 },
+	black: { a: 1 }
+},
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font_kenvector_future_thin_30pt: { file: font_kenvector_future_thin_30pt.fnt },
+	font_kenvector_future_30pt: { file: font_kenvector_future_30pt.fnt },
+	font_kenvector_future_thin_36pt: { file: font_kenvector_future_thin_36pt.fnt },
+	font_kenvector_future_thin_48pt: { file: font_kenvector_future_thin_48pt.fnt },
+	font_big_dots_56pt: { file: font_big_dots_56pt.fnt },
+	font_kenvector_future_26pt: { file: font_kenvector_future_26pt.fnt },
+	font_roboto-_bold_26pt: { file: font_roboto-_bold_26pt.fnt },
+	font_big_dots_48pt: { file: font_big_dots_48pt.fnt },
+	font_kenvector_future_thin_26pt: { file: font_kenvector_future_thin_26pt.fnt },
+	default-font: { file: default.fnt }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	dialogDim: {
+		name: white,
+		color: { a: 1, b: 0.2, g: 0.2, r: 0.2 }
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+	default: { background: default-scroll, knobBefore: default-round-large }
+},
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font_kenvector_future_thin_30pt,
+		fontColor: { a: 1, b: 1, g: 1, r: 1 },
+		up: ic_red_button,
+		down: ic_red_button_down,
+		unpressedOffsetY: 5
+	},
+	default_blue: {
+		font: font_kenvector_future_thin_30pt,
+		fontColor: { a: 1, b: 1, g: 1, r: 1 },
+		up: ic_blue_button,
+		down: ic_blue_button_down,
+		unpressedOffsetY: 5
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	store: { imageUp: ic_store, up: ic_red_button, down: ic_red_button_down, unpressedOffsetY: 5 },
+	coins: { imageUp: ic_coins },
+	next_mini: { up: ic_next_mini, down: ic_next_mini_down },
+	back: { imageUp: ic_back, up: ic_red_button, down: ic_red_button_down, unpressedOffsetY: 5 },
+	player_one: { imageUp: ic_player_one, up: ic_blue_background },
+	player_cpu: { imageUp: ic_cpu, up: ic_blue_background },
+	before_mini: { up: ic_before_mini, down: ic_before_mini_down },
+	player_two: { imageUp: ic_player_two, up: ic_blue_background },
+	next: { up: ic_next, down: ic_next_down },
+	mail: { imageUp: ic_mail, up: ic_red_button, down: ic_red_button_down, unpressedOffsetY: 5 },
+	less: { imageUp: ic_less, up: ic_blue_button, down: ic_blue_button_down, unpressedOffsetY: 5 },
+	plus: { imageUp: ic_plus, up: ic_blue_button, down: ic_blue_button_down, unpressedOffsetY: 5 },
+	config: { imageUp: ic_config, up: ic_red_button, down: ic_red_button_down, unpressedOffsetY: 5 },
+	before: { up: ic_before, down: ic_before_down }
+},
+com.badlogic.gdx.scenes.scene2d.ui.SplitPane$SplitPaneStyle: {
+	default-vertical: { handle: default-splitpane-vertical },
+	default-horizontal: { handle: default-splitpane }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle: {
+	default: { background: default-pane, knob: default-round-large }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: { up: default-round, down: default-round-down },
+	toggle: { up: default-round, down: default-round-down, checked: default-round-down }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: red_white_panel,
+		titleFont: font_kenvector_future_30pt,
+		titleFontColor: { a: 1, b: 1, g: 1, r: 1 }
+	},
+	dialog: {
+		background: red_white_panel,
+		titleFont: font_kenvector_future_30pt,
+		titleFontColor: { a: 1, b: 1, g: 1, r: 1 },
+		stageBackground: dialogDim
+	},
+	card: {
+		background: grey_panel,
+		titleFont: font_kenvector_future_30pt,
+		titleFontColor: { a: 1, b: 0.09019608, g: 0.4117647, r: 0.9098039 }
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font_kenvector_future_thin_30pt,
+		fontColor: { a: 1 },
+		background: grey_button06,
+		cursor: ic_cursor,
+		selection: selection
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font_kenvector_future_thin_26pt,
+		fontColor: { a: 1 }
+	},
+	error: {
+		font: font_kenvector_future_thin_26pt,
+		fontColor: { a: 1, r: 1 }
+	},
+	label_grey: {
+		font: font_kenvector_future_thin_36pt,
+		fontColor: { a: 1, b: 0.6, g: 0.6, r: 0.6 }
+	},
+	notification: { font: font_roboto-_bold_26pt },
+	header: {
+		font: font_kenvector_future_26pt,
+		fontColor: { a: 1 },
+		background: grey_panel
+	},
+	animation_goal: {
+		font: font_big_dots_56pt,
+		fontColor: { a: 1, g: 0.5921569, r: 1 }
+	},
+	label: {
+		font: font_kenvector_future_thin_36pt,
+		fontColor: { a: 1, b: 0.09019608, g: 0.4117647, r: 0.9098039 }
+	},
+	scoreboard_name: {
+		font: font_kenvector_future_thin_30pt,
+		fontColor: { a: 1 }
+	},
+	title: {
+		font: font_kenvector_future_thin_48pt,
+		fontColor: { a: 1, b: 0.09019608, g: 0.4117647, r: 0.9098039 }
+	},
+	scoreboard_goal: {
+		font: font_big_dots_48pt,
+		fontColor: { a: 1, g: 0.5921569, r: 1 }
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+	default: {
+		font: font_kenvector_future_thin_26pt,
+		fontColorSelected: { a: 1, b: 1, g: 1, r: 1 },
+		fontColorUnselected: { a: 1 },
+		selection: selection,
+		background: grey_panel
+	},
+	default_blue: {
+		font: font_kenvector_future_thin_26pt,
+		fontColorSelected: { a: 1, b: 1, g: 1, r: 1 },
+		fontColorUnselected: { a: 1 },
+		selection: selection,
+		background: blue_panel
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: red_boxcheckmark,
+		checkboxOff: grey_box,
+		font: font_kenvector_future_thin_30pt,
+		fontColor: { a: 1, b: 0.09019608, g: 0.4117647, r: 0.9098039 }
+	}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle: {
+	default: { plus: tree-plus, minus: tree-minus, selection: default-select-selection }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-vertical: { background: default-slider, knob: default-slider-knob },
+	default-horizontal: { background: default-slider, knob: default-slider-knob }
+},
+com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+	default: {
+		font: font_kenvector_future_thin_26pt,
+		fontColor: { a: 1, b: 1, g: 1, r: 1 },
+		background: default-select,
+		scrollStyle: default,
+		listStyle: default
+	}
+}
+}

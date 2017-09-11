@@ -1,0 +1,185 @@
+
+gameScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cadizTerreno
+  rotate: false
+  xy: 1, 584
+  size: 720, 432
+  orig: 720, 432
+  offset: 0, 0
+  index: -1
+cadizFondoSur
+  rotate: false
+  xy: 723, 584
+  size: 279, 432
+  orig: 279, 432
+  offset: 0, 0
+  index: -1
+cadizTribuna
+  rotate: false
+  xy: 1, 193
+  size: 720, 389
+  orig: 720, 389
+  offset: 0, 0
+  index: -1
+cadizFondoNorte
+  rotate: false
+  xy: 723, 150
+  size: 278, 432
+  orig: 278, 432
+  offset: 0, 0
+  index: -1
+circulo
+  rotate: false
+  xy: 1, 41
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+listo
+  rotate: false
+  xy: 1, 7
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 67, 9
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+balon2
+  rotate: false
+  xy: 99, 9
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+balon3
+  rotate: false
+  xy: 131, 9
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+porteriaDer
+  rotate: false
+  xy: 153, 63
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+lanzador
+  rotate: false
+  xy: 163, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+porteriaIzq
+  rotate: false
+  xy: 210, 63
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+lanzador2
+  rotate: false
+  xy: 225, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+goalkeeperTapon
+  rotate: false
+  xy: 267, 121
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+normalTapon
+  rotate: false
+  xy: 267, 64
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+lanzador2Inverso
+  rotate: false
+  xy: 287, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+speedTapon
+  rotate: false
+  xy: 324, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hardTapon
+  rotate: false
+  xy: 339, 121
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+lanzadorInverso
+  rotate: false
+  xy: 349, 7
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+technicalTapon
+  rotate: false
+  xy: 376, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+gameScreen2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cadizPreferencia
+  rotate: false
+  xy: 1, 694
+  size: 720, 300
+  orig: 720, 300
+  offset: 0, 0
+  index: -1
+cadizEsq4
+  rotate: false
+  xy: 1, 303
+  size: 279, 389
+  orig: 279, 389
+  offset: 0, 0
+  index: -1
+cadizEsq3
+  rotate: false
+  xy: 282, 303
+  size: 278, 389
+  orig: 278, 389
+  offset: 0, 0
+  index: -1
+cadizEsq2
+  rotate: false
+  xy: 723, 694
+  size: 279, 300
+  orig: 279, 300
+  offset: 0, 0
+  index: -1
+cadizEsq1
+  rotate: false
+  xy: 1, 1
+  size: 278, 300
+  orig: 278, 300
+  offset: 0, 0
+  index: -1

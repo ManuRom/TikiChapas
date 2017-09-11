@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/manoleichon/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.2/b4406b97b35d7caf7111400ceebc8b92c8998168/gdx-box2d-1.6.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b4406b97b35d7caf7111400ceebc8b92c8998168">
+        <dex dex="/home/manoleichon/Documentos/Proyecto/Cliente/RPbytes-tikichapas-f003e278096d/TikiChapas/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.6.2_65d8fd22cf85e617e6a7a30aae7f86aad4c9310e.jar" />
+    </item>
+    <item
+        jar="/home/manoleichon/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.6/3031ab23b99fca1c102ad9fa866aeb06f938b8e2/gdx-backend-android-1.5.6.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3031ab23b99fca1c102ad9fa866aeb06f938b8e2">
+        <dex dex="/home/manoleichon/Documentos/Proyecto/Cliente/RPbytes-tikichapas-f003e278096d/TikiChapas/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.6_a9c70114ad82a7289922fb1ecec15c066070875f.jar" />
+    </item>
+    <item
+        jar="/home/manoleichon/Documentos/Proyecto/Cliente/RPbytes-tikichapas-f003e278096d/TikiChapas/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c8a28969dae8cbe83d431ef4b9c7a3fff72f7b51">
+        <dex dex="/home/manoleichon/Documentos/Proyecto/Cliente/RPbytes-tikichapas-f003e278096d/TikiChapas/android/build/intermediates/pre-dexed/debug/core-1.0_fc91bf835ffba83059340a31e3aa351b2f2a8b9d.jar" />
+    </item>
+    <item
+        jar="/home/manoleichon/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="/home/manoleichon/Documentos/Proyecto/Cliente/RPbytes-tikichapas-f003e278096d/TikiChapas/android/build/intermediates/pre-dexed/debug/box2dlights-1.4_2b689781b5fff889a4c3821f12ea03c1d03aa708.jar" />
+    </item>
+    <item
+        jar="/home/manoleichon/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.2/b70b1eb9da71076aa47ac8932b42358b00db84a0/gdx-1.6.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b70b1eb9da71076aa47ac8932b42358b00db84a0">
+        <dex dex="/home/manoleichon/Documentos/Proyecto/Cliente/RPbytes-tikichapas-f003e278096d/TikiChapas/android/build/intermediates/pre-dexed/debug/gdx-1.6.2_e2c004a2912442f75bb3ba944b530750be2de019.jar" />
+    </item>
+
+</items>

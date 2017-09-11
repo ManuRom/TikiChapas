@@ -63,8 +63,8 @@ public class LoginScreen extends AbstractScreen {
 		nickLabel = new Label("Email",getSkin(),"label");
 		passwordLabel = new Label("Contraseña",getSkin(),"label");
 
-		email = new TextField("jugador1",getSkin());
-		password = new TextField("123456",getSkin());
+		email = new TextField("",getSkin());
+		password = new TextField("",getSkin());
 		password.setPasswordMode(true);
 		password.setPasswordCharacter('*');
 
@@ -171,7 +171,7 @@ public class LoginScreen extends AbstractScreen {
 
 	public void sendPostLoginRequest(){
 		JSONObject content = new JSONObject();
-		content.put("username",email.getText());
+		content.put("email",email.getText());
 		content.put("password",password.getText());
 		Gdx.app.log("content", content.toString());
 

@@ -6,10 +6,10 @@ package com.rpbytes.tikichapas.net;
 public class Url {
     public static final String PROTOCOL_URL = "http://";
 
-    //public static final String BASE_URL = PROTOCOL_URL+"192.168.1.26:8000/api/";
-    //public static final String BASE_URL = PROTOCOL_URL+"192.168.1.15:8000/api/";
-    public static final String BASE_URL = PROTOCOL_URL+"192.168.0.161:8000/api/";
-    //public static final String BASE_URL = PROTOCOL_URL+"192.168.1.19:8000/api/";
+    //public static final String BASE_URL = PROTOCOL_URL+"192.168.0.161:8000/api/";
+    public static final String BASE_URL = PROTOCOL_URL+"tikichapasapi-env.cmmjtqhmyt.us-east-2.elasticbeanstalk.com/api/";
+
+
 
     //public static final String BASE_URL = PROTOCOL_URL+"10.0.2.2:8000/api/";
     //public static final String BASE_URL = PROTOCOL_URL+"localhost:8000/api/";
